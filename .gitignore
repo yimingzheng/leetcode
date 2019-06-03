@@ -1,4 +1,11 @@
+# os
+.DS_Store
+.idea
+.cache
+
+# pants
 .pants.d
 dist
 .pids
 .pants.workdir.file_lock
+.pants.workdir.file_lock.lock_message
